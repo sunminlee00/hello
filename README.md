@@ -1,2 +1,1 @@
-
-![header](https://www.naver,com?type=wave&color=auto&height=300§ion=header&text=capsule%20render&fontSize=90)
+![header](https://https://github.com/sunminlee00/hello/edit/main/README.md?type=waving&color=auto&height=300§ion=header&text=Welcome!😊&desc=This%20is%20Sumin%20playground.%20&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40)
